@@ -1,0 +1,6 @@
+*.csv
+*log
+var/
+var/*
+opt/
+opt/*
