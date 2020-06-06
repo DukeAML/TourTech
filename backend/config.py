@@ -1,0 +1,10 @@
+parser_input_dir = ''
+parser_output_dir = ''
+parser_log_file = ''
+parser_log_format = ''
+parser_regex = ''
+parser_sim_threshold = ''
+parser_depth = ''
+
+logFetcher_sourceType = ''
+logFetcher_sourceLocation = ''
